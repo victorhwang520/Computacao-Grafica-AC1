@@ -1,0 +1,13 @@
+import cv2
+import matplotlib.pyplot as plt
+
+# Carregar imagem
+img = cv2.imread("exemplo.jpg", 0)
+
+# Aplicar Canny
+edges = cv2.Canny(img, 100, 200)
+
+# Mostrar resultado
+plt.subplot(121), plt.imshow(img, cmap='gray'), plt.title("Original")
+plt.subplot(122), plt.imshow(edges, cmap='gray'), plt.title("Bordas")
+plt.show()
