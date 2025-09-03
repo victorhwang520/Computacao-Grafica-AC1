@@ -1,6 +1,7 @@
 # Computacao-Grafica-AC1-03/09/2025
 
 --- Síntese de Imagens ---
+
 Definição:
 
 Área voltada para a criação de imagens artificiais (geradas por computador). Envolve modelagem 3D, renderização, animação e efeitos visuais.
