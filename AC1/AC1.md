@@ -18,7 +18,7 @@ Renderização em tempo real
 
 Transformações (translação, rotação, escala)
 
---- Processamento de Imagens ---
+## Processamento de Imagens
 
 Definição:
 
@@ -34,7 +34,7 @@ Melhoria da qualidade da imagem
 
 Pré-processamento para outras aplicações
 
---- Visão Computacional ---
+## Visão Computacional
 
 Definição
 
@@ -50,7 +50,7 @@ Inteligência artificial aplicada a imagens
 
 Redes neurais em visão computacional
 
---- Visualização Computacional ---
+## Visualização Computacional
 Definição:
 
 Área que visa transformar dados em representações visuais interativas, permitindo análise e interpretação. Muito usada em ciência de dados, big data, estatística.
@@ -65,7 +65,7 @@ Suporte à tomada de decisão
 
 Gráficos interativos e 3D
 
-Resumo:
+# Resumo:
 
 Computação Gráfica: gera imagens do zero.
 
