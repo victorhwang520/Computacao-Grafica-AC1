@@ -1,1 +1,7 @@
-https://github.com/victorhwang520/Computacao-Grafica-ACs/blob/cf519ef0f57a62f563a9e885474b3e9116c5c1c8/AP1/AP1.md
+# Computação-Gráfica-AP1
+
+## Arquivo Blender <br>
+https://github.com/victorhwang520/Computacao-Grafica-ACs/blob/8c600ae35c3a93f79044a9b3afdf14fffdac546f/AP1/Victor.blend <br>
+
+
+![image alt](https://github.com/victorhwang520/Computacao-Grafica-ACs/blob/fec331f4b6a84898587ed264ff43c456223612bf/AP1/Victor.png)
