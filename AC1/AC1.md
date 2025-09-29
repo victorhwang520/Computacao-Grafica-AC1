@@ -1,6 +1,6 @@
 # Computacao-Grafica-AC1-03/09/2025
 
---- Síntese de Imagens ---
+## Síntese de Imagens
 
 Definição:
 
