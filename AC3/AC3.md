@@ -1,1 +1,1 @@
-# Computacao-Grafica-AC3
+# Computação-Gráfica-AC3
