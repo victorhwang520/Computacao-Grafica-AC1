@@ -2,7 +2,7 @@
 
 ## Síntese de Imagens
 
-Definição:
+<br> Definição:
 
 Área voltada para a criação de imagens artificiais (geradas por computador). Envolve modelagem 3D, renderização, animação e efeitos visuais.
 
@@ -16,7 +16,7 @@ Modelagem geométrica
 
 Renderização em tempo real
 
-Transformações (translação, rotação, escala) <br>
+Transformações (translação, rotação, escala)
 
 <br> ## Processamento de Imagens
 
