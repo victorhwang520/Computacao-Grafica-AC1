@@ -1,1 +1,1 @@
-# Computacao-Grafica-AC6
+# Computação-Gráfica-AC6
