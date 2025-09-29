@@ -6,8 +6,6 @@
 
 https://github.com/victorhwang520/Computacao-Grafica-ACs/blob/8c600ae35c3a93f79044a9b3afdf14fffdac546f/AP1/Victor.blend
 
-<br>
-
 ## Complementos
 
 <br>
