@@ -16,7 +16,7 @@ Modelagem geométrica
 
 Renderização em tempo real
 
-Transformações (translação, rotação, escala)
+Transformações (translação, rotação, escala) <br>
 
 ## Processamento de Imagens
 
@@ -32,7 +32,7 @@ Operações em pixels (filtros, histogramas)
 
 Melhoria da qualidade da imagem
 
-Pré-processamento para outras aplicações
+Pré-processamento para outras aplicações <br>
 
 ## Visão Computacional
 
@@ -48,7 +48,7 @@ Reconhecimento de padrões
 
 Inteligência artificial aplicada a imagens
 
-Redes neurais em visão computacional
+Redes neurais em visão computacional <br>
 
 ## Visualização Computacional
 Definição:
@@ -63,7 +63,7 @@ Representação gráfica de grandes volumes de dados
 
 Suporte à tomada de decisão
 
-Gráficos interativos e 3D
+Gráficos interativos e 3D <br>
 
 # Resumo:
 
