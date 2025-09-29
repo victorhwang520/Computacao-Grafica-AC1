@@ -1,4 +1,4 @@
-# Computacao-Grafica-AC1-03/09/2025
+# Computação-Gráfica-AC1-03/09/2025
 
 ## Síntese de Imagens
 
