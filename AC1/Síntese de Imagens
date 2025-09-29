@@ -1,0 +1,18 @@
+from OpenGL.GL import *
+from OpenGL.GLUT import *
+from OpenGL.GLU import *
+
+def draw():
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
+    glRotatef(1, 3, 1, 1)
+    glutWireCube(2)
+    glutSwapBuffers()
+
+glutInit()
+glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH)
+glutInitWindowSize(500, 500)
+glutCreateWindow(b"Computacao Grafica - Cubo")
+glEnable(GL_DEPTH_TEST)
+glutDisplayFunc(draw)
+glutIdleFunc(draw)
+glutMainLoop()
