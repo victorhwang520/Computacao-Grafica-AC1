@@ -38,7 +38,9 @@ Operações em pixels (filtros, histogramas)
 
 Melhoria da qualidade da imagem
 
-Pré-processamento para outras aplicações <br>
+Pré-processamento para outras aplicações
+
+<br>
 
 ## Visão Computacional
 
