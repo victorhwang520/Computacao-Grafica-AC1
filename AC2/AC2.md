@@ -1,4 +1,4 @@
-# Computacao-Grafica-AC2
+# Computação-Gráfica-AC2
 
 EX1 <br>
 Translação — P(2,3) + (4,−2) -> P' = (6, 1).
